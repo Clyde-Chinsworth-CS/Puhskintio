@@ -1,15 +1,13 @@
-@font-face {
-    font-family: "custom";
-    src: url(data/CaviarDreams.ttf) format("truetype");
-}
 
 html {
     background-color: white;
-    font-family: "custom", Helvetica;
+    font-family: "Poiret One";
+   
 }
 
 p {
     text-align: center;
+    font-weight: bold; 
 }
 
 body {
@@ -39,7 +37,7 @@ h2 {
     width: 900px;
     color: white;
     font-size: 30px;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     padding: 20px;
     margin: 20px auto;
@@ -52,7 +50,8 @@ button {
     color: white;
     border: none;
     text-align: center;
-    font-family: "custom";
+    font-family: "Poiret One";
+    font-weight: bold;
     padding: 20px;
     margin: 0px 60px 0px 60px;
     font-size: 20px;
